@@ -1,0 +1,40 @@
+.div{
+	background-color:black;
+	height:40px;
+	width:70px;
+	margin-left:550px;
+	margin-top:40px;
+	color:white;
+	text-align:center;
+}
+.i {
+	border:1px solid grey;
+	height:45%;
+	width:40%;
+	margin-left:30%;
+	margin-top:10%;
+}
+.a {
+	border:4px dashed blue;
+	height:95%;
+	width:48%;
+	margin-left:4px;
+	margin-top:4px;
+}
+.b {
+	background-color:#9370DB;
+	height:100%;
+	width:100%;
+}
+.c {
+	border:4px dashed #6B8E23;
+	height:100%;
+	width:96%;
+	margin-left:104%;
+	margin-top:-300px;
+}
+.d {
+	background-color:#9ACD32;
+	height:100%;
+	width:100%;
+}

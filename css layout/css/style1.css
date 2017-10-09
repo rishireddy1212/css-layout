@@ -1,0 +1,49 @@
+.div{
+	background-color:black;
+	height:40px;
+	width:70px;
+	margin-left:570px;
+	margin-top:80px;
+	color:white;
+	text-align:center;
+}
+.a {
+
+	background-color:red;
+	height:30px;
+	width:31%;
+	color:red;
+	margin-left:35%;
+	margin-top:7%;
+}
+.b {
+	background-color:green;
+	height:230px;
+	width:8%;
+	margin-right:-520px;
+	margin-left:420px;
+}
+.c {
+	background-color:blue;
+	height:230px;
+	width:271px;
+	margin-left:520px;
+	margin-top:-230px;
+}
+.d {
+	background-color:black;
+	height:33%;
+	width:6px;
+	margin-left:515px;
+	margin-top:-230px;
+}
+
+.e {
+	background-color:#FFC300;
+	height:44px;
+	width:371px;
+	margin-left:420px;
+	margin-top:-1px;
+}
+
+

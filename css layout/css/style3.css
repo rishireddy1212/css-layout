@@ -1,0 +1,38 @@
+.div{
+	background-color:black;
+	height:40px;
+	width:70px;
+	margin-left:550px;
+	margin-top:60px;
+	color:white;
+	text-align:center;
+}
+.a {
+	background-color:#F5F5F5;
+	height:15%;
+	width:49%;
+	margin-left:25%;
+	margin-top:10%;	
+}
+.b {
+	border:1px solid orange;
+	height:13%;
+	width:16%;
+	margin-left:302px;
+	margin-top:-98px;
+}
+.c {
+	border:1px solid red;
+	height:13%;
+	width:16%;
+	margin-left:496px;
+	margin-top:-92px;
+}
+.d {
+	border:1px solid grey;
+	background-color:#9ACD32;
+	height:13%;
+	width:16%;
+	margin-left:690px;
+	margin-top:-92px;
+}

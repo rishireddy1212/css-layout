@@ -1,0 +1,36 @@
+.div{
+	background-color:black;
+	height:40px;
+	width:70px;
+	margin-left:550px;
+	margin-top:40px;
+	color:white;
+	text-align:center;
+}
+.a {
+	background-color:#F5F5F5;
+	height:27%;
+	width:44%;
+	margin-left:28%;
+	margin-top:10%;
+}
+.b {
+	border:10px solid #00FFFF;
+	height:80%;
+	width:95%;
+	margin-left:1%;
+	margin-top:1%;
+}
+.c {
+	background-color:red;
+	height:100%;
+	width:15%
+}
+.d {
+	background-color:black;
+	height:149px;
+	width:426px;
+    margin-left:75px;
+	margin-top:-150px;
+	margin-bottom:+20px;
+}

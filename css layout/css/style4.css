@@ -1,0 +1,37 @@
+.div{
+	background-color:black;
+	height:40px;
+	width:70px;
+	margin-left:580px;
+	margin-top:40px;
+	color:white;
+	text-align:center;
+}
+.a {
+background-color:#F5F5F5;
+height:12%;
+width:45%;
+margin-left:30%;
+margin-top:10%;
+}
+.b {
+	background-color:red;
+	height:3%;
+	width:6%;
+	margin-top:-52px;
+	margin-left:30%;
+}
+.c {
+	background-color:#00FF00;
+	height:3%;
+	width:6%;
+	margin-top:-23px;
+	margin-left:49%;
+}
+.d {
+	background-color:blue;
+	height:3%;
+	width:6%;
+	margin-top:-21px;
+	margin-left:69%;
+}
